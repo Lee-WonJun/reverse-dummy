@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ReverseDummy", "ReverseDummy\ReverseDummy.fsproj", "{75F714F3-9C01-4A83-9F89-ECFC16C128C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F714F3-9C01-4A83-9F89-ECFC16C128C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F714F3-9C01-4A83-9F89-ECFC16C128C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F714F3-9C01-4A83-9F89-ECFC16C128C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F714F3-9C01-4A83-9F89-ECFC16C128C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC9A68A-9B42-4876-801D-26EAB46D8D60}
+	EndGlobalSection
+EndGlobal
