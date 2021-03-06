@@ -14,10 +14,10 @@ Generate C# Initialization code for instance on memory
 
 ## feature
 
-Generate Property : O
+- [x] Generate Property
 
-Igonre [XMLIgnoreAttibute] : O
+- [x] Igonre [XMLIgnoreAttibute]
 
-Gerenate Class in Class (Nested) : O
+- [x] Gerenate Class in Class (Nested)
 
-Generic List : X ((Generic List is still created like "List1 [Type].))
+- [ ] Generic List ((Generic List is still created like "List1 [Type].))
